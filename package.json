@@ -1,0 +1,17 @@
+{
+  "name": "cordoba-plugin-adfurikun",
+  "version": "0.1.1",
+  "description": "Adfurikun Plugin",
+  "cordova": {
+    "id": "cordoba-plugin-adfurikun",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "li.junhua",
+  "license": "ISC"
+}
